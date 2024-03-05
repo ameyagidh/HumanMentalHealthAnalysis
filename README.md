@@ -29,7 +29,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/repo.git
+git clone [https://github.com/yourusername/repo.git](https://github.com/ameyagidh/HumanMentalHealthAnalysis.git)
 Install the required dependencies:
 Copy code
 pip install -r requirements.txt
