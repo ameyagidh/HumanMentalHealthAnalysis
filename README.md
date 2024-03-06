@@ -20,6 +20,11 @@ An LSTM neural network model is constructed using Keras, a high-level neural net
 ### 5. Model Evaluation
 The trained model's performance is evaluated using the test data, with metrics such as accuracy computed to assess its effectiveness in classifying the severity of Reddit posts.
 
+### Demo
+
+<img width="1053" alt="Screenshot 2024-03-05 at 1 21 21 AM" src="https://github.com/ameyagidh/HumanMentalHealthAnalysis/assets/65457905/48569e24-2561-466e-90ba-59257da5f105">
+
+
 ## Requirements
 - Python 3
 - TensorFlow
