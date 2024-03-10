@@ -39,7 +39,7 @@ The trained model's performance is evaluated using the test data, with metrics s
 ## Usage
 1. Clone the repository:
 ```
-git clone [https://github.com/yourusername/repo.git](https://github.com/ameyagidh/HumanMentalHealthAnalysis.git)
+git clone https://github.com/ameyagidh/HumanMentalHealthAnalysis.git
 ```
 2. Install the required dependencies:
 ```
